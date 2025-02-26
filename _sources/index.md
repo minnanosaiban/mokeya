@@ -1,15 +1,18 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="イラスト屋のもけ屋さん">
 <meta name="twitter:description" content="もけ屋さんが X-Twitter 連載したマンガをまとめています">
-<meta name="twitter:image" content="https://minnanosaiban.github.io/mokeya/_static/logo2.png">
+<meta name="twitter:image" content="https://minnanosaiban.github.io/mokeya/_static/logo.png">
 <meta property="og:title" content="イラスト屋のもけ屋さん">
 <meta property="og:description" content="もけ屋さんが X-Twitter 連載したマンガをまとめています">
-<meta property="og:image" content="https://minnanosaiban.github.io/mokeya/_static/logo2.png">
+<meta property="og:image" content="https://minnanosaiban.github.io/mokeya/_static/logo.png">
 <meta property="og:url" content="https://minnanosaiban.github.io/mokeya/">
 
-# <span style="color: #28a745;">イラスト屋のもけ屋さん</span>
+![](_static/img/top.png)
 
-## 🐸 もけ屋さんの連載 🐸
+
+# もけ屋の仲間
+
+## 🌳 もけ屋さんの連載 🌳
 ---
 
 <div class="base">
@@ -18,18 +21,47 @@
 
 ::::{grid} 1 1 2 2
 :class-container: text-left
-:gutter: 3
+:gutter: 
 
 :::{grid-item-card}
-:link: jikoai
+:link: jikoai_01
 :link-type: doc
 :class-header: bg-light text-center
 :class-body: text-left
-<span style="color: #28a745;"><b>嘘つき自己愛がやって来た😱</b></span>
+<span style="color: #28a745;"><b>第一章</b></span>
 ^^^
-辞める若手、倒れる上司
+<b>自己愛パワハラ上司がやってきた</b>
+:::
 
-その裏側は？
+
+:::{grid-item-card}
+:link: jikoai_02
+:link-type: doc
+:class-header: bg-light text-center
+:class-body: text-left
+<span style="color: #28a745;"><b>第二章</b></span>
+^^^
+<b>業務に口出し</b>
+:::
+
+:::{grid-item-card}
+:link: jikoai_03
+:link-type: doc
+:class-header: bg-light text-center
+:class-body: text-left
+<span style="color: #28a745;"><b>第三章</b></span>
+^^^
+<b>ワン田退職</b>
+:::
+
+:::{grid-item-card}
+:link: jikoai_04
+:link-type: doc
+:class-header: bg-light text-center
+:class-body: text-left
+<span style="color: #28a745;"><b>第四章</b></span>
+^^^
+<b>救急</b>
 :::
 
 :::{grid-item-card}
@@ -37,18 +69,16 @@
 :link-type: doc
 :class-header: bg-light text-center
 :class-body: text-left
-<span style="color: #28a745;"><b>愛ちゃんの嫉妬🔥</b></span>
+<span style="color: #28a745;"><b>愛ちゃん</b></span>
 ^^^
-嫉妬から始まる物語
-
-この後どうなるの？？
+<b>愛ちゃんの嫉妬🔥</b>
 :::
 
 ::::
 
 </div>
 
-## 🐸 もけ屋さんについて 🐸
+## 🌳 もけ屋さんについて 🌳
 ---
 <div class="base">
 
