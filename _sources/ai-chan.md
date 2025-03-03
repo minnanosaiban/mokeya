@@ -1,10 +1,10 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="イラスト屋のもけ屋さん">
 <meta name="twitter:description" content="もけ屋さんの連載。嫉妬から始まる物語🔥 この後どうなるの？？">
-<meta name="twitter:image" content="https://minnanosaiban.github.io/mokeya/_static/logo2.png">
+<meta name="twitter:image" content="https://minnanosaiban.github.io/mokeya/_static/logo.png">
 <meta property="og:title" content="イラスト屋のもけ屋さん">
 <meta property="og:description" content="もけ屋さんの連載。嫉妬から始まる物語🔥 この後どうなるの？？">
-<meta property="og:image" content="https://minnanosaiban.github.io/mokeya/_static/logo2.png">
+<meta property="og:image" content="https://minnanosaiban.github.io/mokeya/_static/logo.png">
 <meta property="og:url" content="https://minnanosaiban.github.io/mokeya/ai-chan.html">
 
 # 愛ちゃんの嫉妬🔥

@@ -109,6 +109,10 @@ p {
   text-align: right;
   font-size: 14px;
   }
+.base-main {
+  margin: 4.5rem;
+  text-align: center;
+}
 .base {
   margin-right: 4.5rem;
   margin-left: 4.5rem;
@@ -120,6 +124,12 @@ p {
   display: block;
   margin: 0 auto;
 } 
+.base-img-2 {
+  width: 400px; /* PC では 320px */
+  max-width: 100%; /* 画面を超えないように */
+  display: block;
+  margin: 0 auto;
+}
 .center {
   text-align: center;
 } 
