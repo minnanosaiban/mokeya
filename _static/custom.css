@@ -381,6 +381,13 @@ a.headerlink {
     margin-left: 0;
     text-align: left;
     }
+  .base-main {
+    margin-right: 0;
+    margin-left: 0;
+    margin-top: 4.5rem;
+    margin-bottom: 4.5rem;
+    text-align: left;
+    }
   .center {
     text-align: left;
     }  
