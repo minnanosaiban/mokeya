@@ -9,6 +9,28 @@
 
 # 〇〇〇
 
+<div class="base-main">
+
+::::{grid} 1 1 1 1
+:class-container: text-left
+:gutter: 
+
+:::{grid-item-card}
+:link: miyako_01
+:link-type: doc
+:class-header: bg-light text-center
+:class-body: text-left
+<span style="color: #28a745;"><b>応援！都子さん！</b></span>
+^^^
+<b>　</b>
+
+<b>　</b>
+:::
+
+::::
+
+</div>
+
 <div class="base-img-2">
 
 ![](_static/miyako-san/miyako-01.jpg_medium)
