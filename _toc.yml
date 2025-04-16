@@ -1,0 +1,13 @@
+format: jb-book
+root: index
+parts:
+- caption: 連載
+  chapters:
+    - file: miyako_01
+    - file: jikoai_01
+    - file: jikoai_02
+    - file: jikoai_03
+    - file: jikoai_04
+    - file: ai-chan
+
+    

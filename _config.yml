@@ -1,0 +1,39 @@
+title: もけ屋の仲間
+author: もけ屋
+copyright: "2025"
+description: もけ屋での出来事。主に労働問題を漫画やイラストで発信していきます！
+# logo: logo.png
+exclude_patterns: [_build, _00hikae, README.md, memo.txt]
+
+html:
+  # announcement: 
+  favicon: "_static/favicon.png" 
+  baseurl: https://minnanosaiban.github.io/mokeya/
+  use_multitoc_numbering: true
+  home_page_in_navbar: false
+  use_edit_page_button: false
+  use_repository_button: true
+  use_issues_button: false
+  show_navbar_previous: false
+  show_navbar_next: false
+
+parse:
+  myst_enable_extensions: 
+    - amsmath
+    - attrs_inline
+    - colon_fence
+    - deflist
+    - dollarmath
+    - fieldlist
+    - html_admonition
+    - html_image
+    - linkify
+    - replacements
+    - smartquotes
+    - strikethrough
+    - substitution
+    - tasklist
+
+repository:
+  url: https://github.com/minnanosaiban/mokeya
+  branch: main
